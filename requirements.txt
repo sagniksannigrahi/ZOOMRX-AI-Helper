@@ -1,0 +1,3 @@
+openpyxl
+# Only needed for AI mode (USE_AI = True):
+anthropic
